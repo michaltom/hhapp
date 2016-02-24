@@ -1,0 +1,59 @@
+body{
+  padding-top: 55px;
+}
+
+.red-label{
+  height: 5px;
+  background-color: red;
+}
+
+.home{
+
+  background: url(../images/auto.jpg) no-repeat center center;
+  background-size: cover;
+  height: 400px;
+}
+
+.home-title{
+  background-color: transparent;
+}
+
+.home-title h2{
+  color: azure;
+}
+
+.image{
+  border-radius: 50%;
+  border:#111111 1px solid;
+  width: 100%;
+}
+
+.footer{
+  background-color:#f8f8f8;
+  border:#f8f8f8 2px solid !important;
+}
+
+.footer a{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.foo {
+  text-align: center;
+}
+
+.gmap{
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+
+.gmap iframe{
+  width: 100%;
+}
+.nav a {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
